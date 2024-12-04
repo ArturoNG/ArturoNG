@@ -1,6 +1,7 @@
 <h1 align="center"><em> Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em> </h1>
-
+<p align="center">
 ![ANG](https://github.com/user-attachments/assets/cd6e149c-670e-48b3-b2a0-9553dda2c3b4)
+</p>
 <!--
 Here are some ideas to get you started:
 
