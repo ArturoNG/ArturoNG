@@ -1,7 +1,7 @@
 <h1 align="center"><em> Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em> </h1>
-<!--
-**ArturoNG/ArturoNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+![ANG](https://github.com/user-attachments/assets/cd6e149c-670e-48b3-b2a0-9553dda2c3b4)
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
