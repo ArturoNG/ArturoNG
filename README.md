@@ -39,21 +39,21 @@ Soy un estudiante de ASIR
 </p>
 
 ## Proyectos destacados
-<h1 align="center"><em>Proyectos de ciberseguridad:</em> </h1>
+<h1 align="center"><em>Proyectos de completados:</em> </h1>
 <p align="center">
 <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> Creación, gestión y administración de bases de datos en MySQL
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> Creación, gestión y administración de servidores windows con Active Directory Domain Sercies y rol DNS
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" /> Creación, gestión y administración de servidores windows con Active Directory Domain Sercies y rol DNS
 </p>
 
-<h1 align="center"><em>Habilidades en desarrollo:</em> </h1>
+<h1 align="center"><em>Proyectos en desarrollo:</em> </h1>
 <p align="center">
-   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
-   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" />
+<img src="https://img.shields.io/badge/Enrutamiento-Agujero%20negro-white?style=for-the-badge" alt="Agujero negro enrutamiento" /> Enrutamiento de agujero negro.
 </p>
-
+<p align="center">
+<img src="https://img.shields.io/badge/Aplicaci%C3%B3n-Python-red?style=for-the-badge" alt="aplicaicón multiplataforma" /> Aplicación multiplataforma en base python con base de datos indexada.
+</p>
 
 ## Contacto
 <p><a href="https://github.com/ArturoNG" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
