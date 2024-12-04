@@ -1,5 +1,5 @@
 ![header](https://github.com/user-attachments/assets/e1cd02b4-3683-4f3d-92aa-38ab9f426b4a)
-![formulario](https://github.com/user-attachments/assets/4e5bc926-9818-4f9e-89dd-f6e00356880b)
+
 
 <h1 align="center"><em> Estudiante de administración de sistemas informáticos y redes. </em> </h1>
 <p align="center">
@@ -63,7 +63,7 @@ Soy un estudiante de ASIR
 <p>Corréo electrónico de contacto: contacto_arturong@gmail.com </p>
 <p>Rellena el formulario si quieres que yo me ponga en contacto. </p>
 <a href="https://forms.gle/8H4HywKoEiTTXKqb8" target="_blank">
-        <img src="https://github.com/user-attachments/assets/0e675285-9495-4857-9f5b-900e36e06c72
+        <img src="https://github.com/user-attachments/assets/4e5bc926-9818-4f9e-89dd-f6e00356880b
 " alt="Formulario" width="300">
     </a>
 
