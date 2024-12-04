@@ -53,7 +53,7 @@ Soy un estudiante de ASIR
 ## Contacto
 <p><a href="https://github.com/ArturoNG" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 <a href="PONER ENLACE TWITTER" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-<a href="PONER ENLACE LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/arturo-navarro-garcía-4833b832a" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
 </p>
 <p>Corréo electrónico de contacto: contacto_arturong@gmail.com </p>
 <p>Rellena el formulario si quieres que yo me ponga en contacto. </p>
