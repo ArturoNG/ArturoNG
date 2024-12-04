@@ -1,4 +1,5 @@
-## Hi there 👋
+<em> #Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em>
+Soy
 
 <!--
 **ArturoNG/ArturoNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Título: ARtuNombre completo y profesión o área de especialización.
+Introducción: Una breve descripción de quién eres y qué haces.
+Habilidades: Una lista de tus habilidades técnicas y herramientas que dominas.
+Proyectos destacados: Una sección donde incluyas enlaces a proyectos que hayas desarrollado (Coloca las tareas que has realizado y usa tu imaginación para hacerlo atractivo).
+Contacto: Incluir LinkedIn y otras formas de contacto(email no personal del tipo contacto_nombre@gmail.com o un formulario de google o similar, se creativo).
