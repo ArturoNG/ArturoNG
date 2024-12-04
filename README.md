@@ -7,7 +7,7 @@
 
 ## Tabla de Contenidos
 - [Secciones](#secciones)
-- [Sobre mí 📋](#sobre-mí)
+- [Sobre mí](#sobre-mí)
 - [Habilidades de nivel medio](#Habilidades-de-nivel-medio)
 - [Habilidades en desarrollo](#Habilidades-en-desarrollo)
 - [Proyectos Destacados](#)
