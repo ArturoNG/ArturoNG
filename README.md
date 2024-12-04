@@ -39,7 +39,10 @@ Soy un estudiante de ASIR
 ## Proyectos destacados
 <h1 align="center"><em>Proyectos de ciberseguridad:</em> </h1>
 <p align="center">
-  <img src="" alt="MySQL" />
+<img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> Creación, gestión y administración de bases de datos en MySQL
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> Creación, gestión y administración de servidores windows con Active Directory Domain Sercies y rol DNS
 </p>
 
 <h1 align="center"><em>Habilidades en desarrollo:</em> </h1>
