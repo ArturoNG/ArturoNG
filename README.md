@@ -1,4 +1,6 @@
-<h1 align="center"><em> Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em> </h1>
+![header](https://github.com/user-attachments/assets/e1cd02b4-3683-4f3d-92aa-38ab9f426b4a)
+
+<h1 align="center"><em> Estudiante de administración de sistemas informáticos y redes. </em> </h1>
 <p align="center">
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cd6e149c-670e-48b3-b2a0-9553dda2c3b4" alt="mi logo"/>
@@ -6,25 +8,19 @@
 
 ## Tabla de Contenidos
 - [Seciones](#Seciones)
-- [Getting Started](#getting-started)
-- [How to Use](#how-to-use)
-- [Linking portfolio to GitHub](#linking-portfolio-to-github)
-- [Linking blogs section to Medium](#linking-blogs-section-to-medium)
-- [Change and Customize](#change-and-customize-every-section-according-to-your-need)
-- [Deployment](#deployment)
-- [Technologies Used](#technologies-used)
-- [Illustrations](#illustrations)
-- [For the Future](#for-the-future)
-- [Contributors](#project-maintainers)
+- [Sobre mí](#Sobre-mí)
+- [Habilidades de nivel medio](#Habilidades-de-nivel-medio)
+- [Habilidades en desarrollo](#Habilidades-en-desarrollo)
+- [Proyectos Destacados](#)
 
-## Seciones
+## Seciones 📚
 ✔️ Sobre mí\
 ✔️ Habilidades de nivel medio\
 ✔️ Habilidades en desarrollo
 ✔️ Proyectos destacados
 ✔️ Contacto
 
-## Sobre mí
+## Sobre mí 📋
 Soy un estudiante de ASIR
 
 ## Habilidades de nivel medio
@@ -43,7 +39,25 @@ Soy un estudiante de ASIR
 <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Script" />  
 </p>
 
- Título: ARtuNombre completo y profesión o área de especialización.
+## Proyectos destacados
+<h1 align="center"><em>Proyectos de ciberseguridad:</em> </h1>
+<p align="center">
+  <img src="" alt="MySQL" />
+>
+</p>
+
+<h1 align="center"><em>Habilidades en desarrollo:</em> </h1>
+<p align="center">
+   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+   <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white" alt="WordPress" />
+   <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="Github Pages" />
+</p>
+
+
+## Contacto
+Linkedin: 
+Corréo electrónico de contacto: contacto_arturong@gmail.com
+Título: ARtuNombre completo y profesión o área de especialización.
 Introducción: Una breve descripción de quién eres y qué haces.
 Habilidades: Una lista de tus habilidades técnicas y herramientas que dominas.
 Proyectos destacados: Una sección donde incluyas enlaces a proyectos que hayas desarrollado (Coloca las tareas que has realizado y usa tu imaginación para hacerlo atractivo).
