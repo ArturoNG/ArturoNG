@@ -44,7 +44,6 @@ Soy un estudiante de ASIR
 <h1 align="center"><em>Proyectos de ciberseguridad:</em> </h1>
 <p align="center">
   <img src="" alt="MySQL" />
->
 </p>
 
 <h1 align="center"><em>Habilidades en desarrollo:</em> </h1>
@@ -62,8 +61,10 @@ Soy un estudiante de ASIR
 </p>
 <p>Corréo electrónico de contacto: contacto_arturong@gmail.com </p>
 <p>Rellena el formulario si quieres que yo me ponga en contacto. </p>
- <img src="![formulario](https://github.com/user-attachments/assets/4edf4df8-23d6-471c-8c69-2f012f2aca67)
-" alt="Formulario" href= "https://forms.gle/8H4HywKoEiTTXKqb8" </img>
+<a href="https://forms.gle/8H4HywKoEiTTXKqb8" target="_blank">
+        <img src="https://github.com/user-attachments/assets/0e675285-9495-4857-9f5b-900e36e06c72
+" alt="Formulario" width="300">
+    </a>
 
 Introducción: Una breve descripción de quién eres y qué haces.
 Habilidades: Una lista de tus habilidades técnicas y herramientas que dominas.
