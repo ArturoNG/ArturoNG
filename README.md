@@ -1,6 +1,4 @@
-<em> Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em>
-Soy
-
+<h1 align="center"><em> Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em> </h1>
 <!--
 **ArturoNG/ArturoNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 Título: ARtuNombre completo y profesión o área de especialización.
 Introducción: Una breve descripción de quién eres y qué haces.
 Habilidades: Una lista de tus habilidades técnicas y herramientas que dominas.
