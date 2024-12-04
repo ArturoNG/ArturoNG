@@ -1,10 +1,6 @@
 ![header](https://github.com/user-attachments/assets/e1cd02b4-3683-4f3d-92aa-38ab9f426b4a)
 
-
 <h1 align="center"><em> Estudiante de administración de sistemas informáticos y redes. </em> </h1>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/cd6e149c-670e-48b3-b2a0-9553dda2c3b4" alt="mi logo"/>
-</p
 
 ## Tabla de Contenidos
 - [Secciones](#secciones)
@@ -62,13 +58,4 @@ Soy un estudiante de ASIR
 </p>
 <p>Corréo electrónico de contacto: contacto_arturong@gmail.com </p>
 <p>Rellena el formulario si quieres que yo me ponga en contacto. </p>
-<a href="https://forms.gle/8H4HywKoEiTTXKqb8" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4e5bc926-9818-4f9e-89dd-f6e00356880b
-" alt="Formulario" width="300">
-    </a>
-
-
-Introducción: Una breve descripción de quién eres y qué haces.
-Habilidades: Una lista de tus habilidades técnicas y herramientas que dominas.
-Proyectos destacados: Una sección donde incluyas enlaces a proyectos que hayas desarrollado (Coloca las tareas que has realizado y usa tu imaginación para hacerlo atractivo).
-Contacto: Incluir LinkedIn y otras formas de contacto(email no personal del tipo contacto_nombre@gmail.com o un formulario de google o similar, se creativo).
+https://forms.gle/8H4HywKoEiTTXKqb8
