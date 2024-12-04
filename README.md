@@ -62,7 +62,8 @@ Soy un estudiante de ASIR
 </p>
 <p>Corréo electrónico de contacto: contacto_arturong@gmail.com </p>
 <p>Rellena el formulario si quieres que yo me ponga en contacto. </p>
-https://forms.gle/8H4HywKoEiTTXKqb8
+ <img src="![formulario](https://github.com/user-attachments/assets/4edf4df8-23d6-471c-8c69-2f012f2aca67)
+" alt="Formulario" href= "https://forms.gle/8H4HywKoEiTTXKqb8" </img>
 
 Introducción: Una breve descripción de quién eres y qué haces.
 Habilidades: Una lista de tus habilidades técnicas y herramientas que dominas.
