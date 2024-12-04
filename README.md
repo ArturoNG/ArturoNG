@@ -1,4 +1,4 @@
-<em> #Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em>
+<em> Arturo Navarro García, estudiante de administración de sistemas informáticos y redes. </em>
 Soy
 
 <!--
