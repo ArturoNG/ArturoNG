@@ -8,9 +8,10 @@
 ## Tabla de Contenidos
 - [Secciones](#secciones)
 - [Sobre mí](#sobre-mí)
-- [Habilidades de nivel medio](#Habilidades-de-nivel-medio)
-- [Habilidades en desarrollo](#Habilidades-en-desarrollo)
-- [Proyectos Destacados](#)
+- [Habilidades de nivel medio](#habilidades-de-nivel-medio)
+- [Habilidades en desarrollo](#habilidades-en-desarrollo)
+- [Proyectos Destacados](#proyectos-destacados)
+- [Contacto](#contacto)
 
 ## Secciones
 <div id= contenido>
