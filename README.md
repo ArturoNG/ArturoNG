@@ -20,7 +20,7 @@
 ✔️ Proyectos destacados
 ✔️ Contacto
 
-## Sobre mí 📋
+## Sobre mí
 Soy un estudiante de ASIR
 
 ## Habilidades de nivel medio
