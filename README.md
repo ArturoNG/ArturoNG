@@ -11,12 +11,11 @@
 - [Contacto](#contacto)
 
 ## Secciones
-<div id= contenido>
-✔️ Sobre mí\
-✔️ Habilidades de nivel medio\
-✔️ Habilidades en desarrollo
-✔️ Proyectos destacados
-✔️ Contacto
+- Sobre mí
+- Habilidades de nivel medio 
+- Habilidades en desarrollo 
+- Proyectos destacados 
+- Contacto 
 
 ## Sobre mí
 Soy un estudiante de ASIR
