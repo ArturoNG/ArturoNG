@@ -2,18 +2,18 @@
 
 <h1 align="center"><em> Estudiante de administración de sistemas informáticos y redes. </em> </h1>
 <p align="center">
-<p align="center">
   <img src="https://github.com/user-attachments/assets/cd6e149c-670e-48b3-b2a0-9553dda2c3b4" alt="mi logo"/>
 </p
 
 ## Tabla de Contenidos
-- [Seciones](#Seciones)
-- [Sobre mí](#Sobre-mí)
+- [Secciones](#secciones)
+- [sobre mí](#Sobre-mí)
 - [Habilidades de nivel medio](#Habilidades-de-nivel-medio)
 - [Habilidades en desarrollo](#Habilidades-en-desarrollo)
 - [Proyectos Destacados](#)
 
-## Seciones 📚
+## Secciones
+<div id= contenido>
 ✔️ Sobre mí\
 ✔️ Habilidades de nivel medio\
 ✔️ Habilidades en desarrollo
@@ -55,9 +55,14 @@ Soy un estudiante de ASIR
 
 
 ## Contacto
-Linkedin: 
-Corréo electrónico de contacto: contacto_arturong@gmail.com
-Título: ARtuNombre completo y profesión o área de especialización.
+<p><a href="https://github.com/ArturoNG" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="PONER ENLACE TWITTER" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+<a href="PONER ENLACE LINKEDIN" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+<p>Corréo electrónico de contacto: contacto_arturong@gmail.com </p>
+<p>Rellena el formulario si quieres que yo me ponga en contacto. </p>
+https://forms.gle/8H4HywKoEiTTXKqb8
+
 Introducción: Una breve descripción de quién eres y qué haces.
 Habilidades: Una lista de tus habilidades técnicas y herramientas que dominas.
 Proyectos destacados: Una sección donde incluyas enlaces a proyectos que hayas desarrollado (Coloca las tareas que has realizado y usa tu imaginación para hacerlo atractivo).
