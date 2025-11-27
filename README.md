@@ -18,7 +18,7 @@
 - Contacto 
 
 ## Sobre mí
-Soy un estudiante de ASIR
+Soy un Técnico Superior en Administración de Sistemas Informáticos en Red de 26 años y estoy cursando actualmente la especialidad de IA y Big Data.
 
 ## Habilidades de nivel medio
 <p align="center">
