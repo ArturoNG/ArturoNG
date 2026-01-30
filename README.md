@@ -1,6 +1,6 @@
 ![header](https://github.com/user-attachments/assets/e1cd02b4-3683-4f3d-92aa-38ab9f426b4a)
 
-<h1 align="center"><em> Estudiante de administración de sistemas informáticos y redes. </em> </h1>
+<h1 align="center"><em> Técnico superior de Sistemas Informáticos y Redes. </em> </h1>
 
 ## Tabla de Contenidos
 - [Secciones](#secciones)
